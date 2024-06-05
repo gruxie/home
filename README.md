@@ -22,7 +22,3 @@ This is just a web page with links to other things [LinkedIn Profile](https://ww
 </table>
 
 
-
-adding an image
-![image of a person](https://avatars.githubusercontent.com/u/62688622?v=4 "title of image of a person")
-
