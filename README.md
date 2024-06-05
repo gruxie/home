@@ -20,3 +20,9 @@ This is just a web page with links to other things [LinkedIn Profile](https://ww
     <td style="width:80%">Row 2, Cell 3</td>
   </tr>
 </table>
+
+
+
+adding an image
+![image of a person](https://avatars.githubusercontent.com/u/62688622?v=4 "title of image of a person")
+
