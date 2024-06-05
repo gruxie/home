@@ -1,3 +1,3 @@
 # uxr
 
-This is just a web page with links to other things [foo](bar)
+This is just a web page with links to other things [LinkedIn Profile](https://www.linkedin.com/in/george-rhodes-seattle/)
